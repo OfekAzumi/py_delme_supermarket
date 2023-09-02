@@ -1,0 +1,6 @@
+2023-09-02 21:42:38,906 - ERROR - tried showCart(), cart has no products
+2023-09-02 21:42:46,970 - INFO - tried printMarket(), printed all market products
+2023-09-02 21:42:53,477 - INFO - tried addToCart(), added new product to cart
+2023-09-02 21:43:21,203 - INFO - tried sumCart(), printed all cart with summary of product prices
+2023-09-02 21:43:37,638 - INFO - tried sumCart(), printed all cart with summary of product prices
+2023-09-02 21:43:40,532 - INFO - tried done(), empty cart - finished shopping
